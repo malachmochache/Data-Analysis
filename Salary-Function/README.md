@@ -8,13 +8,14 @@ This project demonstrates data processing, error handling, and file operations i
 ## Project Structure
 
 ```
-Salary_Function/
+Salary-Function/
 ├── salary_function.ipynb         # Main data processing notebook (Python)
 ├── display_data.R                # R script for displaying data
 └── data/
     └── salary-data/
         └── Total.csv             # Salary Dataset used for analysis
 ├── README.md                     # Project description and instructions
+├── Salary-Function.zip           # ZIP file for assignment submission
 ```
 
 ## Requirements and Dependincies
